@@ -27,7 +27,6 @@ namespace Assignment2.Controllers
         {
             int value = 10;
             int count = 0;
-            //nested loop to go through all values of dice
             for (int i = 1; i <= m; i++)
             {
                 for (int j = 1; j <= n; j++)
